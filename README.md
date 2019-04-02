@@ -23,6 +23,8 @@ My project includes the following files:
 - **clone.py and clone2.py** : Test runs using LeNet and nVidia
 - **run1.mp4** : Successful Video on run on track1
 
+### Output videos:
+** run1.mp4 **
 
 Initially I tried to replicate the clone.py in the tutorial which used LeNet in the beginning. This can be found at [clone.py](clone.py)
 Next, I tried to replace the clone.py model to nVidia Autonomous Car Group Model and alongside adding the data generator function. This can be found at [model.py](model.py)
